@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1420281304 source:e:\education\csed 18\programming\projects\final project\connect four final version\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<windows.h>
+	<string.h>
+
+1420282862 source:c:\new folder\programming lab homework\project connect 4\versions of whole project\one last version\connect four final version\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<windows.h>
+	<string.h>
+
